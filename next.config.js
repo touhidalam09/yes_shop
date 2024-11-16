@@ -12,6 +12,7 @@ module.exports = withPWA({
   i18n,
   images: {
     domains: [
+      'yes-shop.vercel.app',
       '127.0.0.1',
       'localhost',
       'googleusercontent.com',
