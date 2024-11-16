@@ -1,6 +1,6 @@
 {
   "env": {
-    "NEXT_PUBLIC_REST_API_ENDPOINT": "Add your REST API",
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://skyblue-rook-487357.hostingersite.com",
     "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "Stripe Payment Key",
     "NEXT_PUBLIC_GOOGLE_MAP_API_KEY": "Google Map Key",
     "NEXT_PUBLIC_SITE_URL": "Shop Frontend URL",
@@ -16,7 +16,7 @@
   },
   "build": {
     "env": {
-      "NEXT_PUBLIC_REST_API_ENDPOINT": "Add your REST API",
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://skyblue-rook-487357.hostingersite.com",
       "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "Stripe Payment Key",
       "NEXT_PUBLIC_GOOGLE_MAP_API_KEY": "Google Map Key",
       "NEXT_PUBLIC_SITE_URL": "Shop Frontend URL",
